@@ -1,22 +1,20 @@
 <h3>Jayakrishna liver daignosis Hospital management</h3>
 
 <h4>Homepage</h4>
-<img src="homepage.png">
+<img src="./src/homepage.png">
 
 <h4>Patient Homepage</h4>
-<img src="patient1.png">
+<img src="./src/patient1.png">
 
 <h4>Patient Homepage</h4>
-<img src="patient2.png">
+<img src="./src/patient2.png">
 
 <h4>Patient Homepage</h4>
-<img src="porter.png">
+<img src="./src/porter.png">
 
 try to use as porter and patient roles.
 
 <br>
-<a href="http://jayacv.000webhostapp.com/">http://jayacv.000webhostapp.com/</a>
-
 @jayakrishna2025
 
 In the project directory, you can run:<br>
